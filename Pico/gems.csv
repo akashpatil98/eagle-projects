@@ -1,0 +1,14 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"3";"";"CONN_05";"1X05";"J2, J3, J4";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";
+"1";"0.1uF";"0.1UF-0402-16V-10%";"0402";"C4";"0.1µF ceramic capacitors";"";
+"1";"0.5A/40V/420mV";"DIODE-SCHOTTKY-PMEG4005EJ";"SOD-323";"D1";"Schottky diode";"";
+"1";"1.0uF";"1.0UF-0402-16V-10%";"0402";"C1";"1µF ceramic capacitors";"";
+"1";"10103594-0001LF";"10103594-0001LF";"AMPHENOL_10103594-0001LF";"J1";"USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole  Check prices";"";
+"2";"10uF";"10UF-0603-6.3V-20%";"0603";"C2, C3";"10.0µF ceramic capacitors";"";
+"1";"3.3V";"V_REG_AP2112K-3.3V";"SOT23-5";"U3";"AP2112 - 600mA CMOS LDO Regulator w/ Enable";"";
+"2";"5.1K";"R-EU_R0402";"R0402";"R1, R2";"RESISTOR, European symbol";"";
+"1";"ATSAMD21E18A-AUT";"ATSAMD21E18A-AUT";"QFP80P900X900X120-32N";"U1";"ARM Cortex-M0+ SAM D21E Microcontroller IC 32-Bit 48MHz 256KB (256K x 8) FLASH 32-TQFP (7x7)   Check prices";"";
+"1";"MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM";"MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM";"TACTILE_SWITCH_SMD_4.6X2.8MM";"RESET";"Momentary Switch (Pushbutton) - SPST";"";
+"2";"PTR1TP08R";"PTR1TP08R";"TP08R";"SC, SI";"TEST PIN";"";
+"1";"W25Q32FV";"W25Q32FVSS";"SOIC-8";"U2";"W25Q32FV 32Mb (4MB) Serial Flash Memory";"";
+"1";"WS2812B_SK6805_1515";"WS2812B_SK6805_1515";"SK6805_1515";"LED";"";"";
